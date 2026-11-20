@@ -26,5 +26,3 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn jupyter
 jupyter notebook insurance_eda.ipynb
 ```
 
-## Next steps
-Train and compare regression models (Linear Regression, Random Forest) to predict charges.
